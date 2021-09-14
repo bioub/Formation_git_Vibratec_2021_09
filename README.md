@@ -26,3 +26,4 @@ Formation Git pour Vibratec du 13 au 14/09/2021
 * Centralized Workflow
 * Git Flow
 * Github Flow
+* GitLab Flow
