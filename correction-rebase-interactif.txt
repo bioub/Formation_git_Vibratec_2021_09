@@ -1,0 +1,23 @@
+pick 61f4adb chore: commit initial
+
+pick f5c4dbf feat: voiture.yaml
+fixup 3133984 fix: dimensions in voiture.yaml
+fixup 3195c35 fix: poids dans voiture.yaml
+fixup c30664d fix: mv voiture.yaml in yaml folder
+
+pick d6eac91 societe.yaml
+squash 8f69415 fix: societe.yaml missing :
+squash eabea00 fix: mv societe.yaml in yaml folder
+
+drop 60391ac create app.log
+drop e052e4e fix: remove app.log
+
+pick 38edf63 chore: .gitignore
+pick 1f4ac39 chore: logs/.gitkeep
+
+pick f483b3d feat: contact.yaml
+fixup fbe7d9a fix: birthdate in contact.yaml
+fixup 9be7b5c fix: french keys in contact.yaml
+
+edit 7acb97d fix: ville dans societe.yaml + puissance dans voiture.yaml (à spliter en 2 commits)
+pick 82005af feat: enoncé de l'exercice
