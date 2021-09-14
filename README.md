@@ -20,3 +20,9 @@ Formation Git pour Vibratec du 13 au 14/09/2021
 * git merge
 * git rebase
 * git cherry-pick
+
+## Les workflow
+
+* Centralized Workflow
+* Git Flow
+* Github Flow
